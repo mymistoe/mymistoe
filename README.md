@@ -7,10 +7,7 @@
 
 ### <div align="center">I'm Mistoe, a binary security learner who specializes in kernel security and reverse engineering 💻.</div>  
   
-
 <br/>  
-
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -44,12 +41,10 @@
 
 <br/>  
 
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mymistoe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
 
 <br/>  
 
@@ -57,5 +52,4 @@
 <img src="https://komarev.com/ghpvc/?username=mymistoe&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
